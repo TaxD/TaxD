@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TaxD
-- 👀 I’m interested in us
-- 🌱 I’m currently learning us
-- 💞️ I’m looking to collaborate on us
-- 📫 How to reach me us
+## Hello, I'm TaxD
 
-<!---
-TaxD/TaxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a developer, I have a positive and open-minded attitude toward new technologies.
+
+I also place great value on sharing the skills and knowledge I acquire, and on helping others grow.
+
+This is because I, too, have grown through the help and support of others.
